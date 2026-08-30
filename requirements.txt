@@ -1,1 +1,12 @@
+# Data Manipulation & Financial Data
+yfinance
+pandas
+numpy
 
+# Visualization
+seaborn
+matplotlib
+
+# Machine Learning & Modeling
+scikit-learn
+shap
