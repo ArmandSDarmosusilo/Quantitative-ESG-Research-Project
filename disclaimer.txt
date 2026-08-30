@@ -1,1 +1,13 @@
+DATA & THIRD-PARTY SUBSCRIPTION NOTICE:
+The software utilizes or relies upon data structures obtained via an 
+authorized Bloomberg Terminal. 
 
+Users of this software must maintain their own valid, fully licensed 
+Bloomberg Terminal subscription and possess the necessary authorization 
+credentials to access Bloomberg APIs (including, but not limited to, the 
+Bloomberg Desktop API or Server API). 
+
+The end-user assumes all responsibility for ensuring compliance with Bloomberg L.P.’s Master 
+Services Agreement, data redistribution policies, and terminal terms of 
+service during execution. This project is entirely independent and is 
+neither endorsed, sponsored, nor officially supported by Bloomberg L.P.
